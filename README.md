@@ -1,5 +1,7 @@
 # Helid Wallet
 
+![Logo](https://cdn.discordapp.com/attachments/1145601005711527947/1147883140539486270/helid.jpg)
+
 Welcome to Helid Wallet, your versatile multi-platform economy app powered by our custom API. Helid Wallet is not just a financial tool; it's a virtual world with its own currency, offering you a unique and immersive experience.
 
 ## Features
